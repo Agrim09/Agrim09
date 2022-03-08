@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Agrim09
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on projects and hackathons
+- 📫 How to reach me ...
+- https://www.linkedin.com/in/agrim-srivastava-28b57b207
+- agrim.sri4@gmail.com
+- https://www.instagram.com/agrimsrivastava_/
+- 
